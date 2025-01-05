@@ -4,7 +4,7 @@ Welcome to the Bank Loan Analysis Power BI project repository! This project aims
 ## Overview
 This Power BI project analyzes various aspects of bank loans to provide valuable insights for decision-making. It comprises three main dashboards: Summary, Overview, and Details.
 
-##Dashboard 1: Summary
+<h3>Dashboard 1: Summary</h3>
 Key Performance Indicators (KPIs) Requirements:
 Total Loan Applications: Calculate the total number of loan applications received during a specified period, including Month-to-Date (MTD) and Month-over-Month (MoM) changes.
 Total Funded Amount: Understand the total amount of funds disbursed as loans, monitor MTD Total Funded Amount, and analyze MoM changes.
@@ -12,12 +12,9 @@ Total Amount Received: Track the total amount received from borrowers to assess 
 Average Interest Rate: Calculate the average interest rate across all loans, MTD, and monitor MoM variations.
 Average Debt-to-Income Ratio (DTI): Evaluate the average DTI for borrowers, compute the average DTI for all loans, MTD, and track MoM fluctuations.
 
-###S ummary Visualization:
+Summary Visualization:   Loan Status Grid View: Gain a comprehensive overview of lending operations and monitor loan performance categorized by 'Loan Status'. This grid view provides insights into metrics such as Total Loan Applications, Total Funded Amount, Total Amount Received, MTD Funded Amount, MTD Amount Received, Average Interest Rate, and Average DTI.
 
-Loan Status Grid View: Gain a comprehensive overview of lending operations and monitor loan performance categorized by 'Loan Status'. This grid view provides insights into metrics such as Total Loan Applications, Total Funded Amount, Total Amount Received, MTD Funded Amount, MTD Amount Received, Average Interest Rate, and Average DTI.
-
-##Dashboard 2: Overview
-
+<h3>Dashboard 2: Overview</h3>
 Monthly Trends by Issue Date (Line Chart): Identify seasonality and long-term trends in lending activities.
 Regional Analysis by State (Filled Map): Identify regions with significant lending activity and assess regional disparities.
 Loan Term Analysis (Donut Chart): Understand the distribution of loans across various term lengths.
@@ -25,7 +22,7 @@ Employee Length Analysis (Bar Chart): Assess how lending metrics are distributed
 Loan Purpose Breakdown (Bar Chart): Provide a visual breakdown of loan metrics based on stated purposes of loans.
 Home Ownership Analysis (Tree Map): View how home ownership impacts loan applications and disbursements hierarchically.
 
-##ashboard 3: Details
+<h3>Dashboard 3: Details</h3>
 
 Objective: 
 
